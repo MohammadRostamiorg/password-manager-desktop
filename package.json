@@ -1,0 +1,14 @@
+{
+  "name": "Password Manager Desktop",
+  "version": "1.0.0",
+  "description": "A simple Password Manager for Desktop",
+  "main": "main.js",
+  "author": "Mohammad Rostami",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.1.1"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.10"
+  }
+}
